@@ -1,2 +1,1 @@
-# Automation
- TIA PORTAL Siemens Course
+Automation of systems using TIA Portal and Simatics 1200 and 1500
